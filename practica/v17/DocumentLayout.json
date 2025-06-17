@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2806CBB-BB30-49A9-A47D-BD36F52CB9C9}|practica\\practica.csproj|c:\\users\\\u0441\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2806CBB-BB30-49A9-A47D-BD36F52CB9C9}|practica\\practica.csproj|solutionrelative:practica\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2806CBB-BB30-49A9-A47D-BD36F52CB9C9}|practica\\practica.csproj|C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2806CBB-BB30-49A9-A47D-BD36F52CB9C9}|practica\\practica.csproj|solutionrelative:practica\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2806CBB-BB30-49A9-A47D-BD36F52CB9C9}|practica\\practica.csproj|C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2806CBB-BB30-49A9-A47D-BD36F52CB9C9}|practica\\practica.csproj|solutionrelative:practica\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2806CBB-BB30-49A9-A47D-BD36F52CB9C9}|practica\\practica.csproj|C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\whatdo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2806CBB-BB30-49A9-A47D-BD36F52CB9C9}|practica\\practica.csproj|solutionrelative:practica\\whatdo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2806CBB-BB30-49A9-A47D-BD36F52CB9C9}|practica\\practica.csproj|C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\additems.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2806CBB-BB30-49A9-A47D-BD36F52CB9C9}|practica\\practica.csproj|solutionrelative:practica\\additems.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2806CBB-BB30-49A9-A47D-BD36F52CB9C9}|practica\\practica.csproj|c:\\users\\\u0441\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F2806CBB-BB30-49A9-A47D-BD36F52CB9C9}|practica\\practica.csproj|solutionrelative:practica\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2806CBB-BB30-49A9-A47D-BD36F52CB9C9}|practica\\practica.csproj|C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\additems.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F2806CBB-BB30-49A9-A47D-BD36F52CB9C9}|practica\\practica.csproj|solutionrelative:practica\\additems.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2806CBB-BB30-49A9-A47D-BD36F52CB9C9}|practica\\practica.csproj|C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F2806CBB-BB30-49A9-A47D-BD36F52CB9C9}|practica\\practica.csproj|solutionrelative:practica\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2806CBB-BB30-49A9-A47D-BD36F52CB9C9}|practica\\practica.csproj|C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\whatdo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F2806CBB-BB30-49A9-A47D-BD36F52CB9C9}|practica\\practica.csproj|solutionrelative:practica\\whatdo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 155,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "practica\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\MainWindow.xaml.cs",
+              "RelativeToolTip": "practica\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:49:59.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\Main.xaml.cs",
+              "RelativeDocumentMoniker": "practica\\Main.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\Main.xaml.cs",
+              "RelativeToolTip": "practica\\Main.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T07:45:25.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\UserData.cs",
+              "RelativeDocumentMoniker": "practica\\UserData.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\UserData.cs",
+              "RelativeToolTip": "practica\\UserData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:58:57.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddItems.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\AddItems.xaml.cs",
+              "RelativeDocumentMoniker": "practica\\AddItems.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\AddItems.xaml.cs",
+              "RelativeToolTip": "practica\\AddItems.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:09:02.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WhatDo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\WhatDo.xaml.cs",
+              "RelativeDocumentMoniker": "practica\\WhatDo.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\WhatDo.xaml.cs",
+              "RelativeToolTip": "practica\\WhatDo.xaml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAWwB4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:46:57.747Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 116,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddItems.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\AddItems.xaml",
+              "RelativeDocumentMoniker": "practica\\AddItems.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\AddItems.xaml",
+              "RelativeToolTip": "practica\\AddItems.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T08:04:14.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\Main.xaml",
+              "RelativeDocumentMoniker": "practica\\Main.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\Main.xaml",
+              "RelativeToolTip": "practica\\Main.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T08:26:03.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "practica\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\MainWindow.xaml",
+              "RelativeToolTip": "practica\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T17:50:00.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WhatDo.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\WhatDo.xaml",
+              "RelativeDocumentMoniker": "practica\\WhatDo.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0442\u0435\u043F\u0430\u043D\\source\\repos\\practica\\practica\\WhatDo.xaml",
+              "RelativeToolTip": "practica\\WhatDo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T06:33:52.379Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
